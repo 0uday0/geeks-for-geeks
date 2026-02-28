@@ -1,0 +1,72 @@
+ {
+    "workFlowInstanceId": "7c226939-4174-42d4-a31e-a5e2132bb6d2",
+    "userId": "82992c24-9f8c-4cb9-afac-f331034e9e46",
+    "candidateId": null,
+    "refNum": "UFHUFHUS",
+    "firstName": "Fred",
+    "middleName": null,
+    "lastName": "Ngabo",
+    "emailId": "fredngabogo4th@gmail.com",
+    "joiningDate": "2025-11-05T12:30:00.000+05:30",
+    "candidateStatus": "form assigned",
+    "onboardingStatus": "",
+    "location": "",
+    "designation": "Kids’ Club Associate",
+    "dateCreated": 1761772459275,
+    "dateUpdated": 1762327752414,
+    "isActive": 1,
+    "tdpId": "ef25ff4f-6c00-4cfa-8fb0-457811edc736",
+    "jobData": {
+      "jobId": "KIDSC024246",
+      "jobCategory": "Kids' Club",
+      "brand": "OneLife",
+      "flsaStatus": "NonExempt",
+      "minPay": "10",
+      "maxPay": "18.05",
+      "employeeType": "variable_hour",
+      "department": [
+        "Kids’ Club",
+        "Kids’ Club"
+      ],
+      "supervisor": "Brittany Williams",
+      "postingLocation": "98 - Onelife Fitness Austell, 1025 East West Connector, Austell, GA 30106",
+      "jobCountry": "USA",
+      "jobCodeName": "Kids' Club Associate",
+      "positionCode": "KCA",
+      "jobFamily": "Kids' Club",
+      "region": "Coastal VA",
+      "jobType": "Part Time",
+      "jobLocation": "Austell, Georgia, United States",
+      "jobTitle": "Kids’ Club Associate"
+    },
+    "hireDate": "Nov 5th, 2025",
+    "ratePer": "Hourly",
+    "workHours": "86.67",
+    "salary": "11.50",
+    "currency": "United States Dollar",
+    "e48ab505-42fe-4771-a9c1-2599ecccf37f": {
+      "status": "success"
+    },
+    "17eef672-496b-4ea6-b306-98662d03008e": {
+      "enableReminders": true,
+      "enableEscalations": "true",
+      "reminderConfig": "[object Object]",
+      "escalationConfig": "[object Object]",
+      "escalationDelay": "2",
+      "escalationTemplate": "ONBOARDING_ESCALATION_FORM_EMAIL"
+    },
+    "183ac9bc-fb7d-4f6a-8497-180357caf2e7": {
+      "status": "with Reminders"
+    },
+    "67d01eae-c2d2-4fbd-b166-1bf3e80331ce": {
+      "555": "success",
+      "557": "success"
+    },
+    "events": {
+      "JOINING_DATE_CHANGED": null,
+      "CANDIDATE_LOGGED_IN": null
+    },
+    "62d21df4-f3e9-48ce-83ce-4d257019ced9": {
+      "status": "Not Completed"
+    }
+  }
